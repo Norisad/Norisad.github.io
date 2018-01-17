@@ -23,8 +23,8 @@ padding: 0px 30px 15px 0px!important;
 }
 
 #mainpage{
-	position: relative; 
-	background-image: url(../img/anemone.jpg);
+	position: relative;
+	background-image: url(../img/DNA.jpeg);
 	height: 100vh;
 	width:100%;
 	top: 0;
@@ -68,7 +68,7 @@ padding: 0px 30px 15px 0px!important;
 }
 
 .warner{
-	color:#c92424; 
+	color:#c92424;
 }
 #portfolio .portfolio-item {
     right: 0;

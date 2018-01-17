@@ -1134,7 +1134,7 @@ img {
 .img-centered {
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto
     }
 .img-thumbnail {
   padding: 4px;
@@ -1422,19 +1422,19 @@ a.bg-danger:focus {
   border-bottom: 1px solid #eeeeee;
 }
 .header {
-background: url("img/anemone.jpg") no-repeat center center fixed; 
+background: url("img/anemone.jpg") no-repeat center center fixed;
 /* Set rules to fill background */
   min-height: 100%;
   min-width: 1024px;
-	
+
   /* Set up proportionate scaling */
   width: 100%;
   height: auto;
-	
+
   /* Set up positioning */
   top: 0;
   left: 0;
-  
+
 }
 ul,
 ol {
@@ -4517,8 +4517,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #2fa4e7;
-  border-color: #1995dc;
+  background-color: #3e3f3a;
+  border-color: #3e3f3a;
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
@@ -7996,7 +7996,7 @@ img {
 .img-centered {
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto
     }
 .img-thumbnail {
   padding: 4px;
@@ -9354,7 +9354,7 @@ img {
 .img-centered {
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto
     }
 .img-thumbnail {
   padding: 4px;
@@ -9642,19 +9642,19 @@ a.bg-danger:focus {
   border-bottom: 1px solid #eeeeee;
 }
 .header {
-background: url("img/anemone.jpg") no-repeat center center fixed; 
+background: url("img/anemone.jpg") no-repeat center center fixed;
 /* Set rules to fill background */
   min-height: 100%;
   min-width: 1024px;
-	
+
   /* Set up proportionate scaling */
   width: 100%;
   height: auto;
-	
+
   /* Set up positioning */
   top: 0;
   left: 0;
-  
+
 }
 ul,
 ol {
@@ -15145,19 +15145,19 @@ button.close {
   border-bottom: 1px solid #eeeeee;
 }
 .header {
-background: url("img/anemone.jpg") no-repeat center center fixed; 
+background: url("img/anemone.jpg") no-repeat center center fixed;
 /* Set rules to fill background */
   min-height: 100%;
   min-width: 1024px;
-	
+
   /* Set up proportionate scaling */
   width: 100%;
   height: auto;
-	
+
   /* Set up positioning */
   top: 0;
   left: 0;
-  
+
 }
 ul,
 ol {
